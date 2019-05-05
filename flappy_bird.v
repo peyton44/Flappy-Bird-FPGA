@@ -41,13 +41,13 @@ module flappy_bird(
    wire 	      vsync;
    wire 	      csync;
    wire 	      video_on;
-   wire [10:0] 	      pixel_x;
-   wire [10:0] 	      pixel_y;
-   wire                 bird_move;
-   wire [10:0] 	      bird_x;
-   wire [10:0] 	      bird_y;
-	wire [10:0] 	      pipe_x, pipe_x2, pipe_x3;
-   wire [10:0] 	      pipe_y, pipe_y2, pipe_y3;
+   wire [10:0] pixel_x;
+   wire [10:0] pixel_y;
+   wire        bird_move;
+   wire [10:0] bird_x;
+   wire [10:0] bird_y;
+	wire [10:0] pipe_x, pipe_x2, pipe_x3;
+   wire [10:0] pipe_y, pipe_y2, pipe_y3;
    wire 	      bird_color;
 	wire        pipe_color;
 	
