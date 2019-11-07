@@ -8,3 +8,5 @@ KEY3 - flap
 KEY2 - reset game
 
 Sometimes the KEY debouncing will randomly stop working (happens rarely). Just reprogram. 
+
+Further documentation in pdf.
